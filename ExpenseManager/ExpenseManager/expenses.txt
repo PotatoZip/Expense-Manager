@@ -1,0 +1,20 @@
+85,20 January 2024,Garnek,20
+84,20 January 2024,obwazanek,-3.99
+83,18 January 2024,znalazlem,150
+81,18 January 2024,hryzantemy,-20.8
+80,18 January 2024,hryzantemy,-20.8
+79,18 January 2024,znalazlem,80
+78,18 January 2024,tiramisu,-10.89
+77,18 January 2024,tiramisu,-10.89
+74,21 February 2024,czekoladki,-5.89
+73,21 February 2024,czekoladki,-5.89
+72,16 January 2024,renta,1000
+71,15 January 2024,wazon,-10.99
+70,15 January 2024,garnek,-100
+69,14 January 2024,test,-0.02
+65,14 January 2024,gazeta,-5.99
+60,17 January 2024,Koszenie trawnika,400
+59,14 January 2024,lego friends,-150
+57,14 January 2024,kisiel,-0.01
+56,05 January 2024,skarpetki,-19.98
+55,14 January 2024,wyplata,300
