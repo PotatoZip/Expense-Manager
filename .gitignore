@@ -3,11 +3,6 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
-#Images:
-edit_screen.png
-history_screen.png
-main_screen.png
-
 # User-specific files
 *.rsuser
 *.suo
