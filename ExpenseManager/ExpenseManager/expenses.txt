@@ -1,3 +1,5 @@
+88,Wednesday, 2 October 2024,work,3500
+87,Wednesday, 2 October 2024,xtb,-200
 85,20 January 2024,Garnek,20
 84,20 January 2024,obwazanek,-3.99
 83,18 January 2024,znalazlem,150
